@@ -9,6 +9,7 @@ $ python3 -m venv .venv
 $ source venv/bin/activate
 $ uv pip install -r requirements.txt
 $ python3 src/utils.py
+```
 
 Then execute the below to run the repo.
 
